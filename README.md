@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nirajan Basnet</h1>
-<h3 align="center">A creative coder frontend developer from Nepal</h3>
+<h1>Hi 👋, I'm Nirajan Basnet</h1>
+<h3>A creative coder frontend developer from Nepal</h3>
 
-<a href="https://app.daily.dev/nirazanbasnet"><img src="https://api.daily.dev/devcards/39f8e7f55dae41108d94d75bca2ef2a8.png?r=jxh" width="400" alt="Nirajan Basnet's Dev Card"/></a>
+<div><a href="https://app.daily.dev/nirazanbasnet"><img src="https://api.daily.dev/devcards/39f8e7f55dae41108d94d75bca2ef2a8.png?r=jxh" width="350" alt="Nirajan Basnet's Dev Card"/></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirazanbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="nirazanbasnet" /> </p>
 
