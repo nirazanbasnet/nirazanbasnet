@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/nirazanbasnet/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirazanbasnet" alt="nirazanbasnet" /></a> </p>
 
-- 🌱 I’m currently learning **GSAP Animation, NextJs, ViteJs**
+- 🌱 I’m currently learning and building **React Native Apps**
 
 - 👨‍💻 All of my projects are available at [github.com/nirazanbasnet](github.com/nirazanbasnet)
 
